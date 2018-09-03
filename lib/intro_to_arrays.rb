@@ -1,1 +1,1 @@
-nstantiate_new_array
+def nstantiate_new_array
